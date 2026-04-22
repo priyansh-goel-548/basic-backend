@@ -11,10 +11,8 @@
 - [Quick Start](#quick-start)
 - [Key Dependencies](#key-dependencies)
 - [Run Commands](#run-commands)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 📝 Description
 
@@ -62,18 +60,6 @@ multer: ^2.0.2
 ## 🚀 Run Commands
 
 - **dev**: `npm run dev`
-
-## 📸 Screenshots
-
-> **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Main+Application+View" alt="Main Application View" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Feature+Showcase" alt="Feature Showcase" width="80%"/>
-</p>
 
 ## 📁 Project Structure
 
@@ -137,10 +123,3 @@ Contributions are welcome! Here's how you can help:
 6. **Open** a pull request
 
 Please ensure your code follows the project's style guidelines and includes tests where applicable.
-
-## 📜 License
-
-This project is licensed under the ISC License.
-
----
-*This README was generated with ❤️ by [ReadmeBuddy](https://readmebuddy.com)*
